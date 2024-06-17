@@ -1,3 +1,6 @@
+# Quick Guide to Git 
+By Your Name
+Mike Bradshaw
 # Sample Website
 
 This is a sample website made as part of [*Learn Enough Git to Be
